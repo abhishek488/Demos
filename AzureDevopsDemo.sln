@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureDevopsDemo", "AzureDevopsDemo\AzureDevopsDemo.btproj", "{D1AECC94-B3FD-43B3-BFB7-3CD83C5CC641}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureDevopsDemo.Schemas", "AzureDevopsDemo\AzureDevopsDemo.Schemas.btproj", "{D1AECC94-B3FD-43B3-BFB7-3CD83C5CC641}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
